@@ -1,0 +1,14 @@
+{
+    "name": "samlovescoding/shelliphant",
+    "description": "Deployment and Shell Tool for PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sampan Verma",
+            "email": "sampan.developer@gmail.com"
+        }
+    ],
+    "scripts": {
+        "serve": "php -S localhost:8080"
+    }
+}
